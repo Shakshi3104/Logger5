@@ -10,10 +10,7 @@ This application also can measure headphone's acceleration data and gyroscope da
 :-:|:-:
 
 ## Version
-5.2.0 Beta
-
-
-- Note: Logger v4 (With Storyboard) is [this](https://github.com/Shakshi3104/LoggerGit).
+5.2.0
 
 ## Requirements
 - iOS 14.0+
@@ -29,4 +26,4 @@ This application also can measure headphone's acceleration data and gyroscope da
 |5.0.2|2020/5/4| Release 1st version|
 |5.1.0|2020/5/30| Add line chart|
 |5.1.1|2020/8/1| Add Haptic Engine feedback|
-|5.2.0|2020/8/21| (Beta) Implement the function to collect headphone's acceleration data and gyroscope data|
+|5.2.0|2020/8/21| Implement the function to collect headphone's acceleration data and gyroscope data|
