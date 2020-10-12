@@ -21,6 +21,8 @@
 /* Begin PBXFileReference section */
 		CE2F5CFF23519CDE004E21D6 /* SenserLogger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SenserLogger.swift; sourceTree = "<group>"; };
 		CE3782A824F389EE00FAECDF /* SensorData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SensorData.swift; sourceTree = "<group>"; };
+		CE49F01F2534741800D4DCF7 /* IMG_4338.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_4338.PNG; sourceTree = "<group>"; };
+		CE49F0202534741900D4DCF7 /* IMG_4339.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_4339.PNG; sourceTree = "<group>"; };
 		CE93646F235063EC0087CA57 /* Logger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Logger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE936472235063EC0087CA57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CE936474235063EC0087CA57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -92,6 +94,8 @@
 		CEF12F6624C7C60A001DA115 /* materials */ = {
 			isa = PBXGroup;
 			children = (
+				CE49F01F2534741800D4DCF7 /* IMG_4338.PNG */,
+				CE49F0202534741900D4DCF7 /* IMG_4339.PNG */,
 				CEA2AE8B2522ECA200F6820A /* IMG_4307.PNG */,
 				CEA2AE8C2522ECAB00F6820A /* IMG_4308.PNG */,
 			);
